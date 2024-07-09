@@ -23,7 +23,7 @@ D_HEADER_B	=	incs_bonus/
 
 D_SRCS		=	SRCS/
 
-D_SRCS_B	=	SRCS_C/
+D_SRCS_B	=	SRCS_BONUS/
 
 D_OBJS		=	objs/
 
